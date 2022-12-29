@@ -1,0 +1,3 @@
+Login field Email  or Id
+
+Registration conformation mail with registration id ( first 100 person A-101 and next 100 person will B-101)
